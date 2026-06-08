@@ -24,5 +24,9 @@ El objetivo principal de este proyecto es demostrar habilidades en la estructura
 1. Clonar el repositorio:
    ```bash
    git clone [https://github.com/DyR7666GYFT/gestión-de-activos-de-TI.git](https://github.com/DyR7666GYFT/gestión-de-activos-de-TI.git)
-2. Clonar el repositorio: npm install
-3. Levantar el servidor de desarrollo local: npm run dev
+2. Instalar las dependencias del proyecto:
+   ```bash
+   npm install
+4. Levantar el servidor de desarrollo local:
+   ```bash
+   npm run dev
