@@ -1,4 +1,4 @@
-# It-Support-Automation 💻
+# It-Asset-Management 💻
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat&logo=typescript&logoColor=white)
