@@ -31,20 +31,25 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 16 o supe
 
 ### Pasos para Ejecución
 
-Copia y pega el siguiente bloque de comandos en tu terminal para clonar, configurar e iniciar la aplicación de manera automática:
-
+1. **Clonar este repositorio:**
 ```bash
-# 1. Clonar este repositorio
 git clone [https://github.com/DyR7666GYFT/gestión-de-activos-de-TI.git](https://github.com/DyR7666GYFT/gestión-de-activos-de-TI.git)
+```
 
-# 2. Navegar a la carpeta del proyecto
+2. **Navegar a la carpeta del proyecto:**
+```bash
 cd gestión-de-activos-de-TI
+```
 
-# 3. Instalar todas las dependencias requeridas
+3. **Instalar todas las dependencias requeridas:**
+```bash
 npm install
+```
 
-# 4. Iniciar el servidor de desarrollo local
+4. **Iniciar el servidor de desarrollo local:**
+```bash
 npm run dev
+```
 
-# . Iniciar el servidor de desarrollo local
-npm run dev
+5. **Abrir la aplicación:**
+Una vez levantado el servidor local por la terminal, abre tu navegador web e ingresa a la dirección de red provista por Vite (usualmente es `http://localhost:5173`).
